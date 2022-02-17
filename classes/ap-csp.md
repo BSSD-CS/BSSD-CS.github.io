@@ -18,9 +18,9 @@
 ### Lesson 3.1  
 
 ### Lesson 3.2  
-[CSP Activity 3.2.1](https://github.com/BSSD-CS/ap-csp-activity-321)
-[CSP Activity 3.2.2](https://github.com/BSSD-CS/ap-csp-activity-322)
-[CSP Activity 3.2.3](https://github.com/BSSD-CS/ap-csp-activity-323)
+[CSP Activity 3.2.1](https://github.com/BSSD-CS/ap-csp-activity-321)  
+[CSP Activity 3.2.2](https://github.com/BSSD-CS/ap-csp-activity-322)  
+[CSP Activity 3.2.3](https://github.com/BSSD-CS/ap-csp-activity-323)  
 
 ### Lesson 3.3  
 
