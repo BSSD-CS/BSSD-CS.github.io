@@ -11,6 +11,8 @@
 
 [CSE Activity 3.2.2](https://github.com/BSSD-CS/cse-activity-322)
 
+[CSE Activity 3.2.4A](https://github.com/BSSD-CS/cse-activity-324A)
+
 ### Lesson 3.3  
 
 ## Unit 4
