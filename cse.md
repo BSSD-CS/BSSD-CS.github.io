@@ -15,7 +15,9 @@
 - [CSE Activity 3.2.4D](https://github.com/BSSD-CS/cse-activity-324D) 
 - [CSE Activity 3.2.4E](https://github.com/BSSD-CS/cse-activity-324E) 
 
-### Lesson 3.3  
+### Lesson 3.3
+- [Activity 3.3.2A](https://github.com/BSSD-CS/cse-activity-332A)
+- [Activity 3.3.2B](https://github.com/BSSD-CS/cse-activity-332B)
 
 ## Unit 4
 ### Lesson 4.1  
