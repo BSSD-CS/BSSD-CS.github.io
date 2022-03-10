@@ -35,5 +35,5 @@
 ### Lesson 4.3
 
 ### Create Task
-- [CSP Create Task Pre-Planning](https://github.com/BSSD-CS/ap-csp-create-task-prep)
+- [CSP Create Task Prep](https://github.com/BSSD-CS/ap-csp-create-task-prep)
 - [CSP Create Task](https://github.com/BSSD-CS/ap-csp-create-task)
