@@ -48,6 +48,7 @@
 [CSA Activity 4.9.3 & 4.9.4](https://github.com/BSSD-CS/ap-cs-a-activity-493-and-494)  
 [CSA Activity 4.9.5 & 4.9.6](https://github.com/BSSD-CS/ap-cs-a-activity-495-496)  
 [CSA Activity 4.9.7](https://github.com/BSSD-CS/ap-cs-a-activity-497)  
+[CSA Project 4.9.8](https://github.com/BSSD-CS/ap-cs-a-project-498)  
 ### Lesson 4.10  
 
 
