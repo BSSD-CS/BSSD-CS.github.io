@@ -2,9 +2,9 @@
 ## Unit 1  
 ### Lesson 1.1  
 
-### Lesson 1.2  
+### Lesson 1.2
 
-### Lesson 1.3  
+### Lesson 1.3
 
 ## Unit 2  
 ### Lesson 2.1  
@@ -18,17 +18,17 @@
 ## Unit 3  
 ### Lesson 3.1  
 
-### Lesson 3.2  
+### Lesson 3.2
 - [CSP Activity 3.2.1](https://github.com/BSSD-CS/ap-csp-activity-321)  
 - [CSP Activity 3.2.2](https://github.com/BSSD-CS/ap-csp-activity-322)  
 - [CSP Activity 3.2.3](https://github.com/BSSD-CS/ap-csp-activity-323) 
 - [CSP Project 3.2.4](https://github.com/BSSD-CS/ap-csp-project-324)  
 
-### Lesson 3.3  
+### Lesson 3.3
 
-## Unit 4  
+## Unit 4
 
-### Lesson 4.1  
+### Lesson 4.1
 
 ### Lesson 4.2
 
