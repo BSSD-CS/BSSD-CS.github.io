@@ -2,7 +2,7 @@
 ## Unit 3
 ### Lesson 3.1  
 
-### Lesson 3.2  
+### Lesson 3.2
 - [CSE 3.2 Extra Practice 1](https://github.com/BSSD-CS/cse-32-extra-practice-1)  
 - [CSE 3.2 Extra Practice 2](https://github.com/BSSD-CS/cse-32-extra-practice-2)  
 - [CSE 3.2 Extra Practice 3](https://github.com/BSSD-CS/cse-32-extra-practice-3)  
@@ -18,6 +18,7 @@
 ### Lesson 3.3
 - [Activity 3.3.2A](https://github.com/BSSD-CS/cse-activity-332A)
 - [Activity 3.3.2B](https://github.com/BSSD-CS/cse-activity-332B)
+- [Activity 3.3.2 Text Based Game](https://github.com/BSSD-CS/cse-activity-332-text-based-game)
 
 ## Unit 4
 ### Lesson 4.1  
