@@ -50,7 +50,8 @@
 [CSA Activity 4.9.7](https://github.com/BSSD-CS/ap-cs-a-activity-497)  
 [CSA Project 4.9.8](https://github.com/BSSD-CS/ap-cs-a-project-498)  
 ### Lesson 4.10
-[CSA Activity 4.10.1](https://github.com/BSSD-CS/ap-cs-a-activity-4101)
+[CSA Activity 4.10.1](https://github.com/BSSD-CS/ap-cs-a-activity-4101)  
+[CSA Activity 4.10.2](https://github.com/BSSD-CS/ap-cs-a-activity-4102)
 
 
 ### Test Prep
