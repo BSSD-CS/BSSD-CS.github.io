@@ -10,3 +10,4 @@
 - [Cyber Project 3.3.5](https://github.com/BSSD-CS/cyber-project-335)
 
 ### Lesson 3.4
+- [Cyber Problem 3.4.1](https://github.com/BSSD-CS/cyber-problem-341)
