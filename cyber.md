@@ -11,3 +11,6 @@
 
 ### Lesson 3.4
 - [Cyber Problem 3.4.1](https://github.com/BSSD-CS/cyber-problem-341)
+
+### Lesson 4.1
+- [Activity 4.1.1](https://github.com/BSSD-CS/cyber-activity-411)
