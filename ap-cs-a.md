@@ -56,3 +56,6 @@
 
 ### Test Prep
 [CSA Test Prep Materials](https://github.com/BSSD-CS/ap-cs-a-test-prep)
+
+### After the Test
+[Amusement Park Project](https://github.com/BSSD-CS/ap-cs-a-amusement-park)
