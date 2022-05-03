@@ -17,4 +17,4 @@
 - [Activity 4.1.2](https://github.com/BSSD-CS/cyber-activity-412)  
 
 ### Lesson 4.2  
-- 
+- [Activity 4.2.4](https://github.com/BSSD-CS/cyber-activity-424)
