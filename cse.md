@@ -16,6 +16,7 @@
 - [CSE Activity 3.2.4E](https://github.com/BSSD-CS/cse-activity-324E) 
 
 ### Lesson 3.3
+- [Activity 3.2.5](https://github.com/BSSD-CS/cse-project-325-RPS)
 - [Activity 3.3.2A](https://github.com/BSSD-CS/cse-activity-332A)
 - [Activity 3.3.2B](https://github.com/BSSD-CS/cse-activity-332B)
 - [Activity 3.3.2 Text Based Game](https://github.com/BSSD-CS/cse-activity-332-text-based-game)
