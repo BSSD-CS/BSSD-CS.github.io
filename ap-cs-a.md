@@ -40,6 +40,7 @@
 [CSA Activity 2.5.1](https://github.com/BSSD-CS/ap-cs-a-activity-251)  
 [CSA Activity 2.5.2](https://github.com/BSSD-CS/ap-cs-a-activity-252)  
 [CSA Activity 2.5.3](https://github.com/BSSD-CS/ap-cs-a-activity-253)
+[CSA Activity 2.5.4](https://github.com/BSSD-CS/ap-cs-a-activity-254)
 
 ## Unit 3  
 ### Lesson 3.6  
