@@ -32,7 +32,8 @@
 [CSA Activity 2.4.1](https://github.com/BSSD-CS/ap-cs-a-activity-241)  
 [CSA Activity 2.4.2](https://github.com/BSSD-CS/ap-cs-a-activity-242)  
 [CSA Activity 2.4.3](https://github.com/BSSD-CS/ap-cs-a-activity-243)  
-[CSA Activity 2.4.4](https://github.com/BSSD-CS/ap-cs-a-activity-244)
+[CSA Activity 2.4.4](https://github.com/BSSD-CS/ap-cs-a-activity-244)  
+[CSA Activity 2.4.5](https://github.com/BSSD-CS/ap-cs-a-activity-245)
 
 ### Lesson 2.5
 
