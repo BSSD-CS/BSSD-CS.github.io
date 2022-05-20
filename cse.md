@@ -27,3 +27,6 @@
 - [Turtles Activity 1](https://github.com/BSSD-CS/cse-activity-turtles-01)
 - [Turtles Activity 2](https://github.com/BSSD-CS/cse-activity-turtles-02)
 
+## Extra Projects  
+- [Morse Code](https://github.com/BSSD-CS/cse-morse-code-dictionary-project)
+
