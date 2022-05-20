@@ -29,6 +29,7 @@
 
 ## Unit 2  
 ### Lesson 2.4  
+[CSA Activity 2.4.1](https://github.com/BSSD-CS/ap-cs-a-activity-241)
 
 ### Lesson 2.5
 
