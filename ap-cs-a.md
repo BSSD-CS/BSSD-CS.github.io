@@ -39,6 +39,7 @@
 ### Lesson 2.5  
 [CSA Activity 2.5.1](https://github.com/BSSD-CS/ap-cs-a-activity-251)  
 [CSA Activity 2.5.2](https://github.com/BSSD-CS/ap-cs-a-activity-252)  
+[CSA Activity 2.5.3](https://github.com/BSSD-CS/ap-cs-a-activity-253)
 
 ## Unit 3  
 ### Lesson 3.6  
