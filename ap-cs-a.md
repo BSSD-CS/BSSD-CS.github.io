@@ -50,6 +50,7 @@
 ### Lesson 3.6  
 [CSA Activity 3.6.1](https://github.com/BSSD-CS/ap-cs-a-activity-361)  
 [CSA Activity 3.6.2](https://github.com/BSSD-CS/ap-cs-a-activity-362)  
+[CSA Activity 3.6.3](https://github.com/BSSD-CS/ap-cs-a-activity-363)
 
 ### Lesson 3.7
 
