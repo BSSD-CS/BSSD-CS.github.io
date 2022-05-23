@@ -42,7 +42,7 @@
 [CSA Activity 2.5.3](https://github.com/BSSD-CS/ap-cs-a-activity-253)  
 [CSA Activity 2.5.4](https://github.com/BSSD-CS/ap-cs-a-activity-254)  
 [CSA Activity 2.5.5](https://github.com/BSSD-CS/ap-cs-a-activity-255)  
-[CSA Activity 2.5.6](https://github.com/BSSD-CS/ap-cs-a-activity-256)
+[CSA Activity 2.5.6](https://github.com/BSSD-CS/ap-cs-a-activity-256)  
 [CSA Activity 2.5.7](https://github.com/BSSD-CS/ap-cs-a-activity-257)  
 
 ## Unit 3  
