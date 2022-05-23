@@ -45,6 +45,9 @@
 [CSA Activity 2.5.6](https://github.com/BSSD-CS/ap-cs-a-activity-256)  
 [CSA Activity 2.5.7](https://github.com/BSSD-CS/ap-cs-a-activity-257)  
 [CSA Activity 2.5.8](https://github.com/BSSD-CS/ap-cs-a-activity-258)  
+[CSA Activity 2.5.9]  
+[CSA Activity 2.5.10]  
+[CSA Project 2.5.11]
 
 ## Unit 3  
 ### Lesson 3.6  
@@ -54,7 +57,14 @@
 [CSA Activity 3.6.4](https://github.com/BSSD-CS/ap-cs-a-activity-364)  
 [CSA Project 3.6.5](https://github.com/BSSD-CS/ap-cs-a-project-365)  
 
-### Lesson 3.7
+### Lesson 3.7  
+[CSA Activity 3.7.1](https://github.com/BSSD-CS/ap-cs-a-activity-371)  
+[CSA Activity 3.7.2](https://github.com/BSSD-CS/ap-cs-a-activity-372)  
+[CSA Activity 3.7.3](https://github.com/BSSD-CS/ap-cs-a-activity-373)  
+[CSA Activity 3.7.4]  
+[CSA Activity 3.7.5](https://github.com/BSSD-CS/ap-cs-a-activity-375)  
+[CSA Activity 3.7.6](https://github.com/BSSD-CS/ap-cs-a-activity-376)  
+[CSA Project 3.7.7]  
 
 ### Lesson 3.8
 [CSA Activity 3.8.1](https://github.com/BSSD-CS/ap-cs-a-activity-381)  
