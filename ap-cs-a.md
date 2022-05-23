@@ -49,6 +49,7 @@
 ## Unit 3  
 ### Lesson 3.6  
 [CSA Activity 3.6.1](https://github.com/BSSD-CS/ap-cs-a-activity-361)  
+[CSA Activity 3.6.2](https://github.com/BSSD-CS/ap-cs-a-activity-362)  
 
 ### Lesson 3.7
 
