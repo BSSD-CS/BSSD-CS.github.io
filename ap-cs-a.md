@@ -52,7 +52,7 @@
 [CSA Activity 3.6.2](https://github.com/BSSD-CS/ap-cs-a-activity-362)  
 [CSA Activity 3.6.3](https://github.com/BSSD-CS/ap-cs-a-activity-363)  
 [CSA Activity 3.6.4](https://github.com/BSSD-CS/ap-cs-a-activity-364)  
-[CSA Project 3.6.5](https://github.com/BSSD-CS/ap-cs-a-project-365)
+[CSA Project 3.6.5](https://github.com/BSSD-CS/ap-cs-a-project-365)  
 
 ### Lesson 3.7
 
