@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cyber
 
 ## Unit 1
