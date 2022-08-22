@@ -4,24 +4,19 @@
 ## Unit 1
 ### Lesson 1.1
 - [Cyber Activity 1.1.1](https://github.com/BSSD-CS/cyber-activity-111)
-=======
-# Cyber  
-## Unit 1  
-### Lesson 1.1  
 
-### Lesson 1.2  
+### Lesson 1.2
 
-### Lesson 1.3  
+### Lesson 1.3
 
 ## Unit 2  
 ### Lesson 2.1  
 
-### Lesson 2.2  
+### Lesson 2.2
 
-### Lesson 2.3  
+### Lesson 2.3
 
-### Lesson 2.4  
->>>>>>> origin/main
+### Lesson 2.4
 
 ## Unit 3
 ### Lesson 3.1  
