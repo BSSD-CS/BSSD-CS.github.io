@@ -3,6 +3,8 @@
 ## Unit 1
 ### Lesson 1.1
 - [Cyber Activity 1.1.1](https://github.com/BSSD-CS/cyber-activity-111)
+- [Cyber Activity 1.1.2](https://github.com/BSSD-CS/cyber-activity-112)
+- [Cyber Activity 1.1.3](https://github.com/BSSD-CS/cyber-activity-113)
 
 ### Lesson 1.2
 
