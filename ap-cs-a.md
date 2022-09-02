@@ -9,7 +9,7 @@
 [CSA Project 1.1.6](https://github.com/BSSD-CS/ap-cs-a-project-116)  
 
 ### Lesson 1.2
-CSA Activity 1.2.1: no repo, in-class activity 
+- CSA Activity 1.2.1: no repo, in-class activity 
 [CSA Activity 1.2.2](https://github.com/BSSD-CS/ap-cs-a-activity-122) 
 [CSA Activity 1.2.6](https://github.com/BSSD-CS/ap-cs-a-activity-126)  
 [CSA Activity 1.2.7](https://github.com/BSSD-CS/ap-cs-a-activity-127)  
