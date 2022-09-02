@@ -9,6 +9,8 @@
 [CSA Project 1.1.6](https://github.com/BSSD-CS/ap-cs-a-project-116)  
 
 ### Lesson 1.2
+[CSA Activity 1.2.1] no repo, in-class activity 
+[CSA Activity 1.2.2](https://github.com/BSSD-CS/ap-cs-a-activity-122) 
 [CSA Activity 1.2.6](https://github.com/BSSD-CS/ap-cs-a-activity-126)  
 [CSA Activity 1.2.7](https://github.com/BSSD-CS/ap-cs-a-activity-127)  
 [CSA Activity 1.2.8](https://github.com/BSSD-CS/ap-cs-a-activity-128)  
@@ -34,7 +36,7 @@
 [CSA Activity 2.4.5](https://github.com/BSSD-CS/ap-cs-a-activity-245)  
 [CSA Project 2.4.6](https://github.com/BSSD-CS/ap-cs-a-project-246)  
 
-### Lesson 2.5  
+### Lesson 2.5
 [CSA Activity 2.5.1](https://github.com/BSSD-CS/ap-cs-a-activity-251)  
 [CSA Activity 2.5.2](https://github.com/BSSD-CS/ap-cs-a-activity-252)  
 [CSA Activity 2.5.3](https://github.com/BSSD-CS/ap-cs-a-activity-253)  
@@ -55,7 +57,7 @@
 [CSA Activity 3.6.4](https://github.com/BSSD-CS/ap-cs-a-activity-364)  
 [CSA Project 3.6.5](https://github.com/BSSD-CS/ap-cs-a-project-365)  
 
-### Lesson 3.7  
+### Lesson 3.7
 [CSA Activity 3.7.1](https://github.com/BSSD-CS/ap-cs-a-activity-371)  
 [CSA Activity 3.7.2](https://github.com/BSSD-CS/ap-cs-a-activity-372)  
 [CSA Activity 3.7.3](https://github.com/BSSD-CS/ap-cs-a-activity-373)  
@@ -83,7 +85,7 @@
 [CSA Activity 4.10.2](https://github.com/BSSD-CS/ap-cs-a-activity-4102)  
 [CSA Project 4.10.3]
 
-## Problems  
+## Problems
 [Problem 1]  
 [Problem 2]  
 [Problem 3]  
