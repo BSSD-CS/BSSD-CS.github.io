@@ -8,6 +8,8 @@
 - [Cyber Project 1.1.4](https://github.com/BSSD-CS/cyber-project-114)
 
 ### Lesson 1.2
+- [Cyber Activity 1.2.1](https://github.com/BSSD-CS/cyber-activity-121)
+- [Cyber Activity 1.2.2](https://github.com/BSSD-CS/cyber-activity-122)
 
 ### Lesson 1.3
 
