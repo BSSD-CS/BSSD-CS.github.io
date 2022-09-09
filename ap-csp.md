@@ -7,6 +7,7 @@
 - [CSP Activity 1.1.4](https://github.com/BSSD-CS/ap-csp-activity-114)
 - [CSP Activity 1.1.5](https://github.com/BSSD-CS/ap-csp-activity-115)
 - [CSP Activity 1.1.6](https://github.com/BSSD-CS/ap-csp-activity-116)
+- [CSP Activity 1.1.7](https://github.com/BSSD-CS/ap-csp-activity-117)
 
 ### Lesson 1.2
 
