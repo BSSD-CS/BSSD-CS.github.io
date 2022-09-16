@@ -10,6 +10,8 @@
 ### Lesson 1.2
 - [Cyber Activity 1.2.1](https://github.com/BSSD-CS/cyber-activity-121)
 - [Cyber Activity 1.2.2](https://github.com/BSSD-CS/cyber-activity-122)
+- [Cyber Activity 1.2.3](https://github.com/BSSD-CS/cyber-activity-123)
+- [Cyber Activity 1.2.4](https://github.com/BSSD-CS/cyber-activity-124)
 
 ### Lesson 1.3
 
