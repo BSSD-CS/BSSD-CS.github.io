@@ -12,8 +12,10 @@
 - [Cyber Activity 1.2.2](https://github.com/BSSD-CS/cyber-activity-122)
 - [Cyber Activity 1.2.3](https://github.com/BSSD-CS/cyber-activity-123)
 - [Cyber Activity 1.2.4](https://github.com/BSSD-CS/cyber-activity-124)
+- [Cyber Project 1.2.5](https://github.com/BSSD-CS/cyber-project-125)
 
 ### Lesson 1.3
+- [Cyber Problem 1.3.1](https://github.com/BSSD-CS/cyber-problem-131)
 
 ## Unit 2  
 ### Lesson 2.1  
