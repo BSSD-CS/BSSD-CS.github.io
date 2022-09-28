@@ -13,6 +13,7 @@
 
 ### Lesson 1.2
 - [CSP Activity 1.2.1](https://github.com/BSSD-CS/ap-csp-activity-121)
+- [CSP Activity 1.2.2](https://github.com/BSSD-CS/ap-csp-activity-122)
 
 ### Lesson 1.3
 
