@@ -20,6 +20,9 @@ CSA Activity 1.2.1: no repo, in-class activity
 [CSA Activity 1.2.9](https://github.com/BSSD-CS/ap-cs-a-activity-129)  
 [CSA Project 1.2.10](https://github.com/BSSD-CS/ap-cs-a-project-1210)  
 
+### Problem 1
+[CSA Problem 1](https://github.com/BSSD-CS/ap-cs-a-problem01) 
+
 ### Lesson 1.3
 [CSA Activity 1.3.1](https://github.com/BSSD-CS/ap-cs-a-activity-131)  
 [CSA Activity 1.3.2](https://github.com/BSSD-CS/ap-cs-a-activity-132)  
