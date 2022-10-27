@@ -29,7 +29,8 @@
 - [Cyber Activity 2.2.3](https://github.com/BSSD-CS/cyber-activity-223)  
 - [Cyber Project 2.2.4](https://github.com/BSSD-CS/cyber-project-224)  
 
-### Lesson 2.3
+### Lesson 2.3  
+- [Cyber Activity 2.3.1](https://github.com/BSSD-CS/cyber-activity-231)  
 
 ### Lesson 2.4
 
