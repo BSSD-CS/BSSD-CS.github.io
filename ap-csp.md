@@ -19,7 +19,8 @@
 - [CSP Project 1.2.5](https://github.com/BSSD-CS/ap-csp-project-125)
 
 ### Lesson 1.3
-
+- [CSP Problem 1.3.1](https://github.com/BSSD-CS/ap-csp-problem-131)
+- 
 ## Unit 2  
 ### Lesson 2.1  
 
