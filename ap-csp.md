@@ -20,9 +20,13 @@
 
 ### Lesson 1.3
 - [CSP Problem 1.3.1](https://github.com/BSSD-CS/ap-csp-problem-131)
-- 
+
 ## Unit 2  
-### Lesson 2.1  
+### Lesson 2.1
+- [CSP Activity 2.1.1](https://github.com/BSSD-CS/ap-csp-activity-211)
+- [CSP Activity 2.1.2](https://github.com/BSSD-CS/ap-csp-activity-212)
+- [CSP Activity 2.1.3](https://github.com/BSSD-CS/ap-csp-activity-213)
+- [CSP Activity 2.1.4](https://github.com/BSSD-CS/ap-csp-activity-214)
 
 ### Lesson 2.2
 - [CSP Activity 2.2.6](https://github.com/BSSD-CS/ap-csp-activity-226)  
