@@ -31,6 +31,7 @@
 
 ### Lesson 2.3  
 - [Cyber Activity 2.3.1](https://github.com/BSSD-CS/cyber-activity-231)  
+- [Cyber Activity 2.3.2](https://github.com/BSSD-CS/cyber_activity_232)  
 
 ### Lesson 2.4
 
