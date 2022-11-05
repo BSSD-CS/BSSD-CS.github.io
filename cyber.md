@@ -35,7 +35,8 @@
 - [Cyber Activity 2.3.3](https://github.com/BSSD-CS/cyber_activity_233)  
 - [Cyber Project 2.3.4](https://github.com/BSSD-CS/cyber_project_234)  
 
-### Lesson 2.4
+### Lesson 2.4  
+- [Cyber Problem 2.4.1](https://github.com/BSSD-CS/cyber_problem_241/blob/main/241-Plan.md)  
 
 ## Unit 3
 ### Lesson 3.1  
