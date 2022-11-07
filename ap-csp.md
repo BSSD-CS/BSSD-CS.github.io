@@ -27,6 +27,7 @@
 - [CSP Activity 2.1.2](https://github.com/BSSD-CS/ap-csp-activity-212)
 - [CSP Activity 2.1.3](https://github.com/BSSD-CS/ap-csp-activity-213)
 - [CSP Activity 2.1.4](https://github.com/BSSD-CS/ap-csp-activity-214)
+- [CSP Activity 2.1.5](https://github.com/BSSD-CS/ap-csp-activity-215)
 
 ### Lesson 2.2
 - [CSP Activity 2.2.6](https://github.com/BSSD-CS/ap-csp-activity-226)  
