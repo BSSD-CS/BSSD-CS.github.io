@@ -38,6 +38,9 @@
 ### Lesson 2.4  
 - [Cyber Problem 2.4.1](https://github.com/BSSD-CS/cyber_problem_241)  
 
+### Cyberstart America Challenges  
+- [Cyberstart America Week 1](https://github.com/BSSD-CS/cyberstart-america-week-1)  
+
 ## Unit 3
 ### Lesson 3.1  
 - [Cyber Activity 3.1.1](https://github.com/BSSD-CS/cyber-activity-311)  
