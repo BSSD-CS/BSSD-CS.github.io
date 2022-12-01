@@ -31,6 +31,9 @@
 - [CSP Project 2.1.6](https://github.com/BSSD-CS/ap-csp-project-216)
 
 ### Lesson 2.2
+- [CSP Activity 2.2.1](https://github.com/BSSD-CS/ap-csp-activity-221)  
+- - [CSP Activity 2.2.2](https://github.com/BSSD-CS/ap-csp-activity-222)  
+- - [CSP Activity 2.2.3](https://github.com/BSSD-CS/ap-csp-activity-223)  
 - [CSP Activity 2.2.6](https://github.com/BSSD-CS/ap-csp-activity-226)  
 - [CSP Alt Project 2.2.7](https://github.com/BSSD-CS/ap-csp-alt-project-227)
 
