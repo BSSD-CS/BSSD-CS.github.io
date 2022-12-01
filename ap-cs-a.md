@@ -51,9 +51,9 @@ CSA Activity 1.2.1: no repo, in-class activity
 [CSA Activity 2.5.6](https://github.com/BSSD-CS/ap-cs-a-activity-256)  
 [CSA Activity 2.5.7](https://github.com/BSSD-CS/ap-cs-a-activity-257)  
 [CSA Activity 2.5.8](https://github.com/BSSD-CS/ap-cs-a-activity-258)  
-[CSA Activity 2.5.9]  
-[CSA Activity 2.5.10]  
-[CSA Project 2.5.11]
+[CSA Activity 2.5.9](https://github.com/BSSD-CS/ap-cs-a-activity-259)
+[CSA Activity 2.5.10](https://github.com/BSSD-CS/ap-cs-a-activity-2510)
+[CSA Project 2.5.11](https://github.com/BSSD-CS/ap-cs-a-project-2511)
 
 ## Unit 3  
 ### Lesson 3.6  
