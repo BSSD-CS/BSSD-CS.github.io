@@ -41,6 +41,7 @@
 ### Cyberstart America Challenges  
 - [Cyberstart America Week 1](https://github.com/BSSD-CS/cyberstart-america-week-1)  
 - [Cyberstart America Week 2](https://github.com/BSSD-CS/cyberstart-america-week-2)  
+- [Cyberstart America 3](https://github.com/BSSD-CS/cyberstart-america-3)
 
 ## Unit 3
 ### Lesson 3.1  
