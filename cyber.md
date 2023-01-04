@@ -46,6 +46,7 @@
 ## Unit 3
 ### Lesson 3.1  
 - [Cyber Activity 3.1.1](https://github.com/BSSD-CS/cyber-activity-311)  
+- [Cyber Activity 3.1.2](https://github.com/BSSD-CS/cyber-activity-312)  
 
 ### Lesson 3.2
 
