@@ -51,6 +51,9 @@
 - [Cyber Project 3.1.4](https://github.com/BSSD-CS/cyber-project-314)  
 
 ### Lesson 3.2
+- [Cyber Activity 3.2.1](https://github.com/BSSD-CS/cyber-activity-321)  
+- [Cyber Activity 3.2.2](https://github.com/BSSD-CS/cyber-activity-322)  
+- [Cyber Activity 3.2.3](https://github.com/BSSD-CS/cyber-activity-323) 
 
 ### Lesson 3.3
 - [Cyber Activity 3.3.3](https://github.com/BSSD-CS/cyber-activity-333)
