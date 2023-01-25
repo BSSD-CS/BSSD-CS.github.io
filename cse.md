@@ -4,6 +4,7 @@
 
 ### Lesson 3.2
 - [CSE 3.2.1 Part 1](https://github.com/BSSD-CS/cse-activity-321-part1)
+- [CSE 3.2.1 Part 2](https://github.com/BSSD-CS/cse-activity-321-part2)
 - [CSE 3.2 Extra Practice 1](https://github.com/BSSD-CS/cse-32-extra-practice-1)  
 - [CSE 3.2 Extra Practice 2](https://github.com/BSSD-CS/cse-32-extra-practice-2)  
 - [CSE 3.2 Extra Practice 3](https://github.com/BSSD-CS/cse-32-extra-practice-3)  
