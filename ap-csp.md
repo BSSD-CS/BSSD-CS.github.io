@@ -40,10 +40,11 @@
 - [CSP Alt Project 2.2.7](https://github.com/BSSD-CS/ap-csp-alt-project-227)
 
 ### Lesson 2.3
-[CSP Problem 2.3.1](https://github.com/BSSD-CS/ap-csp-problem-231)
+- [CSP Problem 2.3.1](https://github.com/BSSD-CS/ap-csp-problem-231)
 
 ## Unit 3  
-### Lesson 3.1  
+### Lesson 3.1
+- [CSP Activity 3.1.1](https://github.com/BSSD-CS/ap-csp-activity-311) 
 
 ### Lesson 3.2
 - [CSP Activity 3.2.1](https://github.com/BSSD-CS/ap-csp-activity-321)  
