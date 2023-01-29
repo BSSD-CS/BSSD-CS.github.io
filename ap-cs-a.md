@@ -67,7 +67,7 @@ CSA Activity 1.2.1: no repo, in-class activity
 [CSA Activity 3.7.1](https://github.com/BSSD-CS/ap-cs-a-activity-371)  
 [CSA Activity 3.7.2](https://github.com/BSSD-CS/ap-cs-a-activity-372)  
 [CSA Activity 3.7.3](https://github.com/BSSD-CS/ap-cs-a-activity-373)  
-[CSA Activity 3.7.4]  
+[CSA Activity 3.7.4] (https://github.com/BSSD-CS/ap-cs-a-activity-374)
 [CSA Activity 3.7.5](https://github.com/BSSD-CS/ap-cs-a-activity-375)  
 [CSA Activity 3.7.6](https://github.com/BSSD-CS/ap-cs-a-activity-376)  
 [CSA Project 3.7.7]  
