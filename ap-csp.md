@@ -45,6 +45,7 @@
 ## Unit 3  
 ### Lesson 3.1
 - [CSP Activity 3.1.1](https://github.com/BSSD-CS/ap-csp-activity-311) 
+- [CSP Project 3.1.6](https://github.com/BSSD-CS/ap-csp-project-316) 
 
 ### Lesson 3.2
 - [CSP Activity 3.2.1](https://github.com/BSSD-CS/ap-csp-activity-321)  
