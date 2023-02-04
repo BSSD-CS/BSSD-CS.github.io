@@ -55,7 +55,8 @@
 - [Cyber Activity 3.2.2](https://github.com/BSSD-CS/cyber-activity-322)  
 - [Cyber Activity 3.2.3](https://github.com/BSSD-CS/cyber-activity-323) 
 - [Cyber Activity 3.2.4](https://github.com/BSSD-CS/cyber-activity-324)
-- [Cyber Activity 3.2.5](https://github.com/BSSD-CS/cyber-activity-325) 
+- [Cyber Activity 3.2.5](https://github.com/BSSD-CS/cyber-activity-325)  
+- [Cyber Project 3.2.6](https://github.com/BSSD-CS/cyber-project-326)
 
 ### Lesson 3.3
 - [Cyber Activity 3.3.3](https://github.com/BSSD-CS/cyber-activity-333)
