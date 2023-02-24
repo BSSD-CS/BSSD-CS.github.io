@@ -60,6 +60,7 @@
 
 ### Lesson 3.3  
 - [Cyber Activity 3.3.1](https://github.com/BSSD-CS/cyber-activity-331)  
+- [Cyber Activity 3.3.2](https://github.com/BSSD-CS/cyber-activity-332)
 - [Cyber Activity 3.3.3](https://github.com/BSSD-CS/cyber-activity-333)
 - [Cyber Activity 3.3.4](https://github.com/BSSD-CS/cyber-activity-334) 
 - [Cyber Project 3.3.5](https://github.com/BSSD-CS/cyber-project-335)
