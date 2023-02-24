@@ -75,7 +75,7 @@ CSA Activity 1.2.1: no repo, in-class activity
 ### Lesson 3.8
 [CSA Activity 3.8.1](https://github.com/BSSD-CS/ap-cs-a-activity-381)  
 [CSA Activity 3.8.2](https://github.com/BSSD-CS/ap-cs-a-activity-382)  
-[CSA Project 3.8.3]  
+[CSA Project 3.8.3](https://github.com/BSSD-CS/ap-cs-a-project-383) 
 
 ## Unit 4  
 ### Lesson 4.9  
