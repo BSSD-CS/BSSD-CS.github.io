@@ -64,7 +64,7 @@
 ### Lesson 4.3
 
 ### Create Task
-- [CSP Create Task Written Practice] (https://github.com/BSSD-CS/ap-csp-create-written-practice)
+- [CSP Create Task Written Practice](https://github.com/BSSD-CS/ap-csp-create-written-practice)
 - [CSP Create Task Prep](https://github.com/BSSD-CS/ap-csp-create-task-prep)
 - [CSP Create Task](https://github.com/BSSD-CS/ap-csp-create-task)
 
