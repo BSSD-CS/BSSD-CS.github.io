@@ -79,3 +79,6 @@
 ### Lesson 4.2
 - [Cyber Activity 4.2.4](https://github.com/BSSD-CS/cyber-activity-424)
 - [Cyber Activity 4.2.5](https://github.com/BSSD-CS/cyber-activity-425)
+
+## Cyber.org
+- [4.1.2 Linux 101](https://github.com/BSSD-CS/cyber_org_412_linux_101)  
