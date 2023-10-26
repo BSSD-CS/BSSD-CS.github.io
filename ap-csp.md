@@ -17,6 +17,9 @@
 - [CSP Activity 1.2.3](https://github.com/BSSD-CS/ap-csp-activity-123)
 - [CSP Activity 1.2.4](https://github.com/BSSD-CS/ap-csp-activity-124)
 - [CSP Project 1.2.5](https://github.com/BSSD-CS/ap-csp-project-125)
+- [CSP Project 1.2](https://github.com/BSSD-CS/ap-csp-project-12)
+- [CSP Project 1.2 sample solution](https://github.com/BSSD-CS/ap-csp-project-12-sample-solution)
+- **Project 1.2 can be used anytime after 1.2.3**
 
 ### Lesson 1.3
 - [CSP Problem 1.3.1](https://github.com/BSSD-CS/ap-csp-problem-131)
