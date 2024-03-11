@@ -33,4 +33,5 @@
 
 ## Extra Projects  
 - [Morse Code](https://github.com/BSSD-CS/cse-morse-code-dictionary-project)
+- [Finch Lesson 6 - For Loops](https://github.com/BSSD-CS/cse-finch-lesson-6)
 
