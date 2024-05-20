@@ -81,6 +81,7 @@
 - [Cyber Activity 4.2.5](https://github.com/BSSD-CS/cyber-activity-425)
 
 ## Cyber.org  
+- [1.2.2 Ransomware and Cryptomalware](https://github.com/BSSD-CS/cyber_org_122_ransomware_and_cryptomalware)  
 - [2.8.6 Steganography & Homomophic Encryption](https://github.com/BSSD-CS/cyber_org_286_steganography)  
 - [4.1.2 Linux 101](https://github.com/BSSD-CS/cyber_org_412_linux_101)  
 - [4.1.2 Linux 102](https://github.com/BSSD-CS/cyber_org_412_linux_102)  
